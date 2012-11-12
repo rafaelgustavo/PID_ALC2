@@ -15,6 +15,7 @@ namespace PID_ALCii
             string Leitura;
             Console.Clear();
             Console.WriteLine("+-----------------------------------------------------+");
+            Console.WriteLine("|                                                     |");
             Console.WriteLine("|        Sistema de Inscrição para Vestibular         |");
             Console.WriteLine("|  Digite o número da opção desejada ou X para sair:  |");
             Console.WriteLine("|                                                     |");
